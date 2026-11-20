@@ -1,0 +1,8 @@
+{
+  "name": "Kuesioner Pariwisata Wakatobi",
+  "description": "Aplikasi pendataan usaha pariwisata Kabupaten Wakatobi yang responsif untuk layar HP, siap offline dan online dengan penyimpanan lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
